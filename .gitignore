@@ -1,0 +1,6 @@
+.idea/*
+.directory
+cmake-build-debug
+test.cpp
+
+
